@@ -1,0 +1,36 @@
+{
+  "name": "book-review-api",
+  "version": "1.0.0",
+  "description": "RESTful API for an Online Book Review Application with JWT authentication",
+  "main": "server.js",
+  "scripts": {
+  "start": "node book-review-api/server.js",
+  "dev": "nodemon book-review-api/server.js",
+  "test": "node book-review-api/client.js",
+  "demo": "node book-review-api/client.js"
+}
+,
+  "keywords": [
+    "nodejs",
+    "express",
+    "jwt",
+    "book-review",
+    "api",
+    "rest",
+    "authentication"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "bcryptjs": "^2.4.3",
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

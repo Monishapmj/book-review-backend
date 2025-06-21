@@ -1,0 +1,57 @@
+{
+  "9780061120084": {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publication_year": 1960,
+    "isbn": "9780061120084",
+    "genre": "Fiction",
+    "description": "A gripping, heart-wrenching, and wholly remarkable tale of coming-of-age in a South poisoned by virulent prejudice.",
+    "pages": 376,
+    "language": "English",
+    "publisher": "Harper Perennial Modern Classics"
+  },
+  "9780451524935": {
+    "title": "1984",
+    "author": "George Orwell",
+    "publication_year": 1949,
+    "isbn": "9780451524935",
+    "genre": "Dystopian Fiction",
+    "description": "A dystopian social science fiction novel that follows the life of Winston Smith, a low-ranking member of 'the Party'.",
+    "pages": 328,
+    "language": "English",
+    "publisher": "Signet Classics"
+  },
+  "9780743273565": {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publication_year": 1925,
+    "isbn": "9780743273565",
+    "genre": "Classic Fiction",
+    "description": "A classic American novel about the Jazz Age and the decline of the American Dream.",
+    "pages": 180,
+    "language": "English",
+    "publisher": "Scribner"
+  },
+  "9780679783268": {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publication_year": 1813,
+    "isbn": "9780679783268",
+    "genre": "Romance",
+    "description": "A romantic novel of manners written by Jane Austen. The novel follows the character development of Elizabeth Bennet.",
+    "pages": 432,
+    "language": "English",
+    "publisher": "Vintage Classics"
+  },
+  "9780140449136": {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "publication_year": 1951,
+    "isbn": "9780140449136",
+    "genre": "Coming-of-age Fiction",
+    "description": "A controversial novel originally published for adults, it has since become popular with adolescent readers for its themes of teenage angst and alienation.",
+    "pages": 277,
+    "language": "English",
+    "publisher": "Penguin Classics"
+  }
+}
